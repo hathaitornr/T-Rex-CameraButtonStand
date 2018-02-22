@@ -17,11 +17,9 @@ Adobe Illustrator templates for laser cutting can be found in "Models" folder.
 
 Power settings for cardboard
 * Stand
-Cutting (Standard Black Lines): Speed: 45% Power: 65% Frequency: 500Hz
-Scoring (Color code Blue Lines): Speed: 65% Power: 30% Frequency: 500Hz
+  - Cutting (Standard Black Lines): Speed: 45% Power: 65% Frequency: 500Hz
+  - Scoring (Color code Blue Lines): Speed: 65% Power: 30% Frequency: 500Hz
 
 * T-Rex Head
-Blue & Green lines: Speed: 15% Power: 100% Frequency: 300Hz
-Red lines: Speed: 100% Power: 20% Frequency: 300Hz
-
-
+  - Blue & Green lines: Speed: 15% Power: 100% Frequency: 300Hz
+  - Red lines: Speed: 100% Power: 20% Frequency: 300Hz
